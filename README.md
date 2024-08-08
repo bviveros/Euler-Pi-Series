@@ -8,4 +8,4 @@ $$ \frac{\pi^4}{90} = \sum_{i=1}^n \frac{1}{(i^4)} $$
 
 Rearranged to solve for $\pi$
 
-$$ \pi = \sqrt{4}{90(\sum_{i=1}^n \frac{1}{(i^4)})} $$
+$$ \pi = \sqrt[4]{90(\sum_{i=1}^n \frac{1}{(i^4)})} $$
